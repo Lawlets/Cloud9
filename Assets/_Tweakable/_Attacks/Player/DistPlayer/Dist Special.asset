@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 633a8c7328d233a42bca2518cc699217, type: 3}
+  m_Name: Dist Special
+  m_EditorClassIdentifier: 
+  SpecialLevels:
+  - range: 1
+    startUpDuration: 0.13333333
+    connectDuration: 0.5
+    recoveryDuration: 0.36666667
+    animationDuration: 1
+    atkStruct: {fileID: 11400000, guid: 21cca22fee5e47346b9eae71ba32d7c8, type: 2}
+  - range: 2
+    startUpDuration: 0.1333333
+    connectDuration: 0.25
+    recoveryDuration: 0.3666667
+    animationDuration: 1
+    atkStruct: {fileID: 11400000, guid: 543dbfdcb4252da4e8c021260c2ea59c, type: 2}
+  - range: 3
+    startUpDuration: 0.1333333
+    connectDuration: 0.16666666
+    recoveryDuration: 0.3666667
+    animationDuration: 1
+    atkStruct: {fileID: 11400000, guid: 48a47d7427c3e144ca82afab21eb586f, type: 2}
+  - range: 4
+    startUpDuration: 0.13333334
+    connectDuration: 0.125
+    recoveryDuration: 0.3666667
+    animationDuration: 1
+    atkStruct: {fileID: 11400000, guid: e2912827e40aadc4c912fb5e4243ae78, type: 2}
+  - range: 5
+    startUpDuration: 0.13333334
+    connectDuration: 0.1
+    recoveryDuration: 0.3666667
+    animationDuration: 1
+    atkStruct: {fileID: 11400000, guid: afc4de3f9c2d17f4683b837c26871d79, type: 2}

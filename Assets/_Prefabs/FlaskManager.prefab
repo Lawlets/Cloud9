@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1908930607012018}
+  m_IsPrefabParent: 1
+--- !u!1 &1908930607012018
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4940063657303352}
+  - component: {fileID: 114083317706532400}
+  m_Layer: 0
+  m_Name: FlaskManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4940063657303352
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1908930607012018}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.7179592, y: -7.076438, z: -0.109375}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114083317706532400
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1908930607012018}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e8300b970582c946842220aea368748, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_speedFlaskData: {fileID: 11400000, guid: 27dc612ad6f0f2a4ca1d38e695d05790, type: 2}
+  m_dashFlaskData: {fileID: 11400000, guid: d927bae5abedf134fb1205766a524f64, type: 2}
+  m_jumpFlaskData: {fileID: 11400000, guid: 7f7ed174a1cdd7140971cd375918b023, type: 2}
+  m_reviveFlaskData: {fileID: 11400000, guid: d33fdd5f1441ab94c927fb2304183d65, type: 2}
+  m_chainGaugeDecayFlaskData: {fileID: 11400000, guid: f1f75456b531dbd41978697c9c037a7d,
+    type: 2}
+  m_chainTimerFlaskData: {fileID: 11400000, guid: c256a2c6b106e3a4db4806f374a73dab,
+    type: 2}
+  m_superArmorFlaskData: {fileID: 11400000, guid: 0ffef5c5c3c38764a843b908847ebd13,
+    type: 2}
+  m_adrenalineFlaskData: {fileID: 11400000, guid: 307a0df8d5abd54468d809979ff56c56,
+    type: 2}
+  m_hardcoreFlaskData: {fileID: 11400000, guid: af72f4a3ce0e5d74a893f693b07c8b62,
+    type: 2}
+  m_meleeCharacterFlasks: []
+  m_distanceCharacterFlasks: []
+  m_meleeEquipedFlaskData: []
+  m_distanceEquipedFlaskData: []
+  m_ownFlask: []

@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 49a1a329f79a4d547b2b001efbdbf218
+timeCreated: 1524669279
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Boy_Weapon
+    21300002: BTA_Character_Boy_Weapon_1
+    21300004: BTA_Character_Boy_Weapon_2
+    21300006: BTA_Character_Boy_Weapon_3
+    21300008: BTA_Character_Boy_Weapon_4
+    21300010: BTA_Character_Boy_Weapon_5
+    21300012: BTA_Character_Boy_Weapon_6
+    21300014: Boy_Weapon_Cross01
+    21300016: Boy_Weapon_Cross02
+    21300018: BTA_Character_Boy_Weapon_9
+    21300020: BTA_Character_Boy_Weapon_10
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 600
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boy_Weapon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 369
+        height: 196
+      alignment: 9
+      pivot: {x: 0.5094851, y: 0.48724487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BTA_Character_Boy_Weapon_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 323
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BTA_Character_Boy_Weapon_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 331
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BTA_Character_Boy_Weapon_3
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 140
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BTA_Character_Boy_Weapon_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 140
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BTA_Character_Boy_Weapon_5
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 140
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BTA_Character_Boy_Weapon_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 142
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy_Weapon_Cross01
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 87
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47826084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boy_Weapon_Cross02
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 22.000002
+        width: 64
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4873418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BTA_Character_Boy_Weapon_9
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 36
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BTA_Character_Boy_Weapon_10
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 6
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 99982658297431
+  assetBundleName: 
+  assetBundleVariant: 

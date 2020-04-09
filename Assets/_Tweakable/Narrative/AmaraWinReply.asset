@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e22d1b701f78b6e4e9daa3e8d69feb72, type: 3}
+  m_Name: AmaraWinReply
+  m_EditorClassIdentifier: 
+  TextBlockArray:
+  - talkingCharacter: 1
+    text: You're ten years too early to beat me at this little game.
+    hasSound: 1
+    sound: event:/VOIX/AMARA/SNEER
+  - talkingCharacter: 1
+    text: If I find out that you're lettin' me do all the heavy lifting on purpose...
+    hasSound: 1
+    sound: event:/VOIX/AMARA/ANNOYED
+  - talkingCharacter: 1
+    text: Another job aced by Super Mom!... aaand her trusty minion.
+    hasSound: 1
+    sound: event:/VOIX/AMARA/GOOD

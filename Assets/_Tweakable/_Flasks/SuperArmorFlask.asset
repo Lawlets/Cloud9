@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf28ebce1fe59854089bb233a2599f91, type: 3}
+  m_Name: SuperArmorFlask
+  m_EditorClassIdentifier: 
+  m_currentFlaskType: 6
+  price: 400
+  nocivity: 10
+  flaskName: Ox Brew
+  flaskGeneralDescription: You can no longer stagger during Heavy attacks.
+  flaskEffectDescription: Super Armor on Heavy Attack
+  narrativeDescription: Created as an alternative to caffeine beverages, Ox Brew was
+    made for those who need an extra energy boost to get them through the day! The
+    lasting sensation of warmth it creates coats your whole body and keeps your muscles
+    in top condition for physical effort, numbing pain and decreasing fatigue.
+  m_flaskSprite: {fileID: 21300000, guid: b1e30c5cde440084eb1a5b4061f32ce6, type: 3}
+  m_fogColor: {r: 0, g: 0, b: 0, a: 0}
+  m_isLock: 0
+  m_dashCooldown: 0
+  m_dashLength: 0
+  m_dashDuration: 0
+  m_jumpHeight: 0
+  m_jumpDuration: 0
+  m_FallingSpeed: 0
+  m_speed: 0
+  m_reviveDuration: 0
+  m_hpBonus: 0
+  m_chainGaugeLossOutOfFight: 0
+  m_chainTimer: 0
+  m_attackGainingSuperArmor: 1
+  m_lifePercentBeforeChainGaugeIncrease: 0
+  m_cannotRegenerateByHittingSlime: 0
+  m_goldMultiplier: 0

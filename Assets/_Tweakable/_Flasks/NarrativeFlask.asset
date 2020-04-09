@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf28ebce1fe59854089bb233a2599f91, type: 3}
+  m_Name: NarrativeFlask
+  m_EditorClassIdentifier: 
+  m_currentFlaskType: 9
+  price: 0
+  nocivity: 0
+  flaskName: Cloud Nine
+  flaskGeneralDescription: Dramatically enhances any Eden product it gets mixed with...
+    causing, in the process, devastating side effects
+  flaskEffectDescription: 
+  narrativeDescription: Military-grade flask only bestowed to extremely specific companies.
+    Dramatically enhances any Eden product it gets mixed with... causing, in the process,
+    devastating side effects on the user's health if abused (according to the product's
+    C-9 index). Required for Sotera workers to do their job
+  m_flaskSprite: {fileID: 21300000, guid: 3f05b934d64ff0b4e93302e213fc0269, type: 3}
+  m_fogColor: {r: 0, g: 0, b: 0, a: 0}
+  m_isLock: 0
+  m_dashCooldown: 0
+  m_dashLength: 0
+  m_dashDuration: 0
+  m_jumpHeight: 0
+  m_jumpDuration: 0
+  m_FallingSpeed: 0
+  m_speed: 0
+  m_reviveDuration: 0
+  m_hpBonus: 0
+  m_chainGaugeLossOutOfFight: 0
+  m_chainTimer: 0
+  m_attackGainingSuperArmor: 1
+  m_lifePercentBeforeChainGaugeIncrease: 0
+  m_cannotRegenerateByHittingSlime: 0
+  m_goldMultiplier: 0

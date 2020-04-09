@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf28ebce1fe59854089bb233a2599f91, type: 3}
+  m_Name: ChainGaugeFlask
+  m_EditorClassIdentifier: 
+  m_currentFlaskType: 4
+  price: 400
+  nocivity: 20
+  flaskName: Tranquil Stream
+  flaskGeneralDescription: 'Reduces the speed at which the Special Gauge is depleted
+    when not actively fighting. '
+  flaskEffectDescription: Chain Gauge decay -2/3
+  narrativeDescription: "One of the Eden\xAE Classic blends! Tranquil Stream contains
+    natural agents that help improve focusing abilities and resistance to external
+    pressure, with no side effects. Perfect for studying or performing precision work.
+    A college student favorite, also loved by surgeons all around the world!"
+  m_flaskSprite: {fileID: 21300000, guid: 670f5b5f5319c5e4a8717ce30e76e47a, type: 3}
+  m_fogColor: {r: 0, g: 0, b: 0, a: 0}
+  m_isLock: 0
+  m_dashCooldown: 0
+  m_dashLength: 0
+  m_dashDuration: 0
+  m_jumpHeight: 0
+  m_jumpDuration: 0
+  m_FallingSpeed: 0
+  m_speed: 0
+  m_reviveDuration: 0
+  m_hpBonus: 0
+  m_chainGaugeLossOutOfFight: -66.666664
+  m_chainTimer: 0
+  m_attackGainingSuperArmor: 1
+  m_lifePercentBeforeChainGaugeIncrease: 0
+  m_cannotRegenerateByHittingSlime: 0
+  m_goldMultiplier: 0

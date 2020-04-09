@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e22d1b701f78b6e4e9daa3e8d69feb72, type: 3}
+  m_Name: LEVEL01END
+  m_EditorClassIdentifier: 
+  TextBlockArray:
+  - talkingCharacter: 1
+    text: That wasn't too bad. Nice job.
+    hasSound: 1
+    sound: event:/VOIX/AMARA/GOOD
+  - talkingCharacter: 2
+    text: 'You mean the whole "run around and shoot stuff" thing? '
+    hasSound: 0
+    sound: 
+  - talkingCharacter: 1
+    text: '... Alright, I''ve been observing you - and I''ll give you that: it is
+      indeed the only thing you do.'
+    hasSound: 1
+    sound: event:/VOIX/AMARA/SIGH
+  - talkingCharacter: 2
+    text: Hey, I get to be good at what I love doing. I've got nothing else to ask
+      for.
+    hasSound: 1
+    sound: event:/VOIX/JUDE/HEY
+  - talkingCharacter: 2
+    text: Besides, tell me about how different your own methods are, waving your stick
+      around and hitting things with it?
+    hasSound: 0
+    sound: 
+  - talkingCharacter: 1
+    text: Well, the fact that you can't tell the difference is why you're still a
+      freshman and I'm the one giving you instructions.
+    hasSound: 1
+    sound: event:/VOIX/AMARA/SNEER
+  - talkingCharacter: 2
+    text: You're SO not giving me anything. Teams have no leader, remember? We're
+      supposed to be on equal footing here.
+    hasSound: 1
+    sound: event:/VOIX/JUDE/INTERROGATIVE
+  - talkingCharacter: 2
+    text: '... Hey! You''re not walking away in the middle of this discussion. Come
+      back here!'
+    hasSound: 1
+    sound: event:/VOIX/JUDE/HEY

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78c1edf34bafd154f9193cc4343de6ca, type: 3}
+  m_Name: Dist Air Heavy
+  m_EditorClassIdentifier: 
+  startUpDuration: 0.2
+  recoverDuration: 0.8
+  attackDatas:
+  - ID: -4798240
+    damage: 40
+    connectDuration: 0
+    CC: 4
+    CCForce: 200
+    hasFX: 1
+    gaoFX: {fileID: 1921897398278066, guid: 1518aeec22a7a9a4aa9b28f7436de5b9, type: 2}
+  type: 1
+  isComboFinisher: 1
+  pursueComboTimer: 1.5

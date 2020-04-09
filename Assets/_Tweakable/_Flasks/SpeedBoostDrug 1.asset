@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf28ebce1fe59854089bb233a2599f91, type: 3}
+  m_Name: SpeedBoostDrug 1
+  m_EditorClassIdentifier: 
+  m_currentFlaskType: 2
+  price: 400
+  nocivity: 5
+  flaskName: Surging Breeze
+  flaskGeneralDescription: Increases movement speed.
+  flaskEffectDescription: +50% Movement Speed
+  narrativeDescription: 'Do you need to start training? Surging Breeze helps dilate
+    bronchial branches and improves blood flow, effectively increasing your endurance
+    and resistance to sustained effort. WARNING: This product is not to be used before
+    or during sportive events or competitions. The manufacturer declines all responsibility
+    for potential issues happening in such cases.'
+  m_flaskSprite: {fileID: 21300000, guid: ccd9b7e493dda9047af0f8b8ee8c2782, type: 3}
+  m_fogColor: {r: 0, g: 0, b: 0, a: 0}
+  m_isLock: 0
+  m_dashCooldown: 0
+  m_dashLength: 0
+  m_dashDuration: 0
+  m_jumpHeight: 0
+  m_jumpDuration: 0
+  m_FallingSpeed: 0
+  m_speed: 50
+  m_reviveDuration: 0
+  m_hpBonus: 0
+  m_chainGaugeLossOutOfFight: 0
+  m_chainTimer: 0
+  m_attackGainingSuperArmor: 1
+  m_lifePercentBeforeChainGaugeIncrease: 0
+  m_cannotRegenerateByHittingSlime: 0
+  m_goldMultiplier: 0

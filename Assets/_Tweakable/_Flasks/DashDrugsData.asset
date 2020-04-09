@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf28ebce1fe59854089bb233a2599f91, type: 3}
+  m_Name: DashDrugsData
+  m_EditorClassIdentifier: 
+  m_currentFlaskType: 0
+  price: 400
+  nocivity: 10
+  flaskName: Willow Sap
+  flaskGeneralDescription: All dashes are longer and faster, and their cooldown is
+    reduced.
+  flaskEffectDescription: +50% Dash Length & -50% Dash Cooldown
+  narrativeDescription: "One of the Eden\xAE Classic blends! Made from several plant
+    extracts, Willow Sap is meant to be a solution for dreamy people; it improves
+    observation skills, reflexes, as well as short-term memory. Ideal for worried
+    drivers looking for a confidence boost!"
+  m_flaskSprite: {fileID: 21300000, guid: 3656e38fad803f14e9f14a8cbeee46e6, type: 3}
+  m_fogColor: {r: 0, g: 0, b: 0, a: 0}
+  m_isLock: 0
+  m_dashCooldown: -50
+  m_dashLength: 50
+  m_dashDuration: -50
+  m_jumpHeight: 0
+  m_jumpDuration: 0
+  m_FallingSpeed: 0
+  m_speed: 0
+  m_reviveDuration: 0
+  m_hpBonus: 0
+  m_chainGaugeLossOutOfFight: 0
+  m_chainTimer: 0
+  m_attackGainingSuperArmor: 1
+  m_lifePercentBeforeChainGaugeIncrease: 0
+  m_cannotRegenerateByHittingSlime: 0
+  m_goldMultiplier: 0

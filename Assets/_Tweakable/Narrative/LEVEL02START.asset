@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e22d1b701f78b6e4e9daa3e8d69feb72, type: 3}
+  m_Name: LEVEL02START
+  m_EditorClassIdentifier: 
+  TextBlockArray:
+  - talkingCharacter: 2
+    text: Hmm... I've seen this place more lively than this before.
+    hasSound: 1
+    sound: event:/VOIX/JUDE/HMM
+  - talkingCharacter: 1
+    text: Which is unsurprising, considering they're in the middle of evacuating.
+      Would you shop in a street filled to the brim with slimy monstrosities?
+    hasSound: 0
+    sound: 
+  - talkingCharacter: 2
+    text: I know I would. No crowd to worry about and practice targets everywhere?
+      Sign me up!
+    hasSound: 1
+    sound: event:/VOIX/JUDE/NICE
+  - talkingCharacter: 1
+    text: Sigh... I wish I had your enthusiasm. You really are one of a kind...
+    hasSound: 1
+    sound: event:/VOIX/AMARA/SIGH
+  - talkingCharacter: 1
+    text: Still, I wonder... How were slimes able to reach this place unnoticed?
+    hasSound: 0
+    sound: 
+  - talkingCharacter: 2
+    text: Yeah, I was wondering about this, too. Don't they usually stroll around
+      in darker places?
+    hasSound: 1
+    sound: event:/VOIX/JUDE/INTERROGATIVE
+  - talkingCharacter: 1
+    text: I've never seen them act like this before. All the more reason to hurry
+      up and destroy them before someone gets hurt, or worse.
+    hasSound: 1
+    sound: event:/VOIX/AMARA/ANNOYED
+  - talkingCharacter: 2
+    text: Sounds right up my alley. Let's get moving.
+    hasSound: 1
+    sound: event:/VOIX/JUDE/YES

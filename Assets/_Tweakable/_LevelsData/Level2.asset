@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67a91872f3b014d4db15a6d7a10a1123, type: 3}
+  m_Name: Level2
+  m_EditorClassIdentifier: 
+  m_contractNumber: ID 6653J
+  m_levelName: Pungbu Market
+  m_requester: Submitted by RODGERS SURVEILLANCE via ORMEAUX Nadine
+  m_levelDescription: Our cameras have spotted several groups of slimes approaching
+    from dark alleys. We have warned people by broadcasting messages about the situation,
+    but we need Sotera to intervene. Oh, just so you know, some of the slimes look...
+    different. They might be sturdier than usual. Proceed with caution.
+  m_levelPreview: {fileID: 21300000, guid: 9d4347d76224a864a8267fbfa5321eed, type: 3}
+  m_sceneName: Level2

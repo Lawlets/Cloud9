@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0543fe805424df99fe08ce744cbe49, type: 3}
+  m_Name: CAC_Hit_Jump
+  m_EditorClassIdentifier: 
+  m_PoseEntries:
+  - path: BONE/Base
+    localPosition: {x: 0.19568133, y: -0.86063874, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.945369, w: -0.32600248}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BONE/Base/BaseFront01
+    localPosition: {x: 0.14705098, y: 0.0000000037252903, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.12627678, w: 0.99199504}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BONE/Base/BaseFront01/BaseFront02
+    localPosition: {x: 0.11827743, y: 9.313226e-10, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.031750895, w: 0.99949586}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BONE/Base/BaseFront01/BaseBehind
+    localPosition: {x: -0.033467967, y: 0.014615081, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.929799, w: 0.36806774}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BONE/Body_Base
+    localPosition: {x: 0.20615828, y: -0.8362998, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.9228308, w: 0.38520548}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BONE/Body_Base/Body_01
+    localPosition: {x: 0.10261531, y: -0.000000007450581, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.08419967, w: 0.99644893}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BONE/Body_Base/Body_01/Body_02
+    localPosition: {x: 0.13670187, y: 0.0000000022700988, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.5707136, w: 0.82114923}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BONE/Body_Base/Body_01/Body_02/Body_03
+    localPosition: {x: 0.097155824, y: 0.0000000037252903, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.03168979, w: 0.9994978}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BONE/Body_Base/Body_01/Body_02/Body_03/Body_04
+    localPosition: {x: 0.14902355, y: 0.000000001724402, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.23122151, w: 0.9729012}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BONE/Body_Base/Body_01/Body_02/Body_03/Body_04/Body_05
+    localPosition: {x: 0.15090786, y: 0.000000005122274, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.11906393, w: 0.99288666}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BONE/Body_Base/Body_01/Body_02/Body_03/Body_04/Body_05/Neck_Base
+    localPosition: {x: 0.15846944, y: -0.0000000013969839, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.29627934, w: 0.9551014}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BONE/Body_Base/Body_01/Body_02/Body_03/Body_04/Body_05/Neck_Base/Neck_01
+    localPosition: {x: 0.15457545, y: -0.000000048894435, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.34947154, w: 0.936947}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BONE/Body_Base/Body_01/Body_02/Body_03/Body_04/Body_05/Neck_Base/Neck_01/Neck_02
+    localPosition: {x: 0.15956688, y: 0.000000037252903, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.35989103, w: 0.93299437}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: BONE/Body_Base/Body_01/Body_02/Body_03/Body_04/Body_05/Neck_Base/Neck_01/Neck_02/Head
+    localPosition: {x: 0.13890219, y: 0.0000000055879354, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.69776547, w: 0.71632636}
+    localScale: {x: 1, y: 1, z: 1}

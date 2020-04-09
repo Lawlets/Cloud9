@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e22d1b701f78b6e4e9daa3e8d69feb72, type: 3}
+  m_Name: LEVEL02END
+  m_EditorClassIdentifier: 
+  TextBlockArray:
+  - talkingCharacter: 2
+    text: How did SO MANY of them reach this place unnoticed?
+    hasSound: 1
+    sound: event:/VOIX/JUDE/ANNOYED
+  - talkingCharacter: 1
+    text: Jude, this... swarm is enormous. Something is not right.
+    hasSound: 1
+    sound: event:/VOIX/AMARA/ANNOYED
+  - talkingCharacter: 1
+    text: I'm serious. This is my first time seeing so many of them in such a small
+      place in ten years.
+    hasSound: 0
+    sound: 
+  - talkingCharacter: 2
+    text: Let's retreat, then. I know we're good, but maybe not THAT good.
+    hasSound: 1
+    sound: event:/VOIX/JUDE/HMM
+  - talkingCharacter: 2
+    text: Let's go back to the van and ask for reinforcements from nearby teams.
+    hasSound: 0
+    sound: 
+  - talkingCharacter: 1
+    text: No... I'm staying here. Being scared is no excuse for not doing our jobs.
+    hasSound: 1
+    sound: event:/VOIX/AMARA/NO
+  - talkingCharacter: 2
+    text: I dunno, would you rather be a living coward or a dead hero? Don't you have
+      kids to worry about?
+    hasSound: 1
+    sound: event:/VOIX/JUDE/COMEON
+  - talkingCharacter: 1
+    text: Yes, and I'm also thinking about them. Would I want them to stumble upon
+      this abomination?
+    hasSound: 0
+    sound: 
+  - talkingCharacter: 1
+    text: People will die, Jude. I promise that I'll be careful, but I need you to
+      cover me.
+    hasSound: 1
+    sound: event:/VOIX/AMARA/COMEON
+  - talkingCharacter: 2
+    text: You... do?
+    hasSound: 1
+    sound: event:/VOIX/JUDE/INTERROGATIVE
+  - talkingCharacter: 1
+    text: You've been my teammate for two months now. Who else would I entrust my
+      safety to?
+    hasSound: 1
+    sound: event:/VOIX/AMARA/YES
+  - talkingCharacter: 2
+    text: '...'
+    hasSound: 0
+    sound: 
+  - talkingCharacter: 2
+    text: '... I''m sorry, Amara. I can''t let you do this. Let me act responsibly
+      for both of us, for once.'
+    hasSound: 1
+    sound: event:/VOIX/JUDE/SIGH
+  - talkingCharacter: 2
+    text: The best way to guarantee your safety would be to make you retreat right
+      now.
+    hasSound: 0
+    sound: 
+  - talkingCharacter: 1
+    text: (He's usually so needlessly overconfident... Looks like he does care when
+      he wants to.)
+    hasSound: 1
+    sound: event:/VOIX/AMARA/INTERROGATIVE
+  - talkingCharacter: 1
+    text: '... Fine. I''ll listen to you. But if any of them leaves the perimeter,
+      I''m rushing back in.'
+    hasSound: 1
+    sound: event:/VOIX/AMARA/GOOD
+  - talkingCharacter: 2
+    text: Deal. Quick, let's not waste time anymore! To the van!
+    hasSound: 1
+    sound: event:/VOIX/JUDE/YES

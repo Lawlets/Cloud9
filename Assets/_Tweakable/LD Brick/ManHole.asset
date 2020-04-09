@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 087b3b3d90b4f194f8ced2703a1aa2c3, type: 3}
+  m_Name: ManHole
+  m_EditorClassIdentifier: 
+  attackDatas:
+  - damage: 8
+    CC: 1
+    CCForce: 100
+    hasFX: 0
+    gaoFX: {fileID: 0}

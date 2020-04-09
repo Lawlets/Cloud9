@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - PlayerManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - Solid
+  - 
+  - Ground
+  - PlayerHitBox
+  - EnemyHitBox
+  - 
+  - 
+  - 
+  - 
+  - 
+  - PlayerRestricted
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Back
+    uniqueID: 702627995
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Entity
+    uniqueID: 1088701059
+    locked: 0
+  - name: Front
+    uniqueID: 1197291667
+    locked: 0

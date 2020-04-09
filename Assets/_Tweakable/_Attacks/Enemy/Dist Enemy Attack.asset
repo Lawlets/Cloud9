@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78c1edf34bafd154f9193cc4343de6ca, type: 3}
+  m_Name: Dist Enemy Attack
+  m_EditorClassIdentifier: 
+  attackDatas:
+  - damage: 10
+    CC: 1
+    CCForce: 0
+    hasFX: 0
+    gaoFX: {fileID: 0}
+  type: 0
+  pursueComboTimer: 1.5

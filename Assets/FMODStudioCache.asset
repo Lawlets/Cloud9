@@ -1,0 +1,2086 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: 114460659064120168}
+  - {fileID: 114906141375151176}
+  - {fileID: 114987401064337160}
+  EditorEvents:
+  - {fileID: 114020963946840438}
+  - {fileID: 114751051975558872}
+  - {fileID: 114802678377184216}
+  - {fileID: 114381055087002256}
+  - {fileID: 114261624371467100}
+  - {fileID: 114613548381515420}
+  - {fileID: 114091276552882554}
+  - {fileID: 114910447327198126}
+  - {fileID: 114012282167264098}
+  - {fileID: 114014059420269022}
+  - {fileID: 114340886520722896}
+  - {fileID: 114092991645593238}
+  - {fileID: 114376495384288446}
+  - {fileID: 114517253109052744}
+  - {fileID: 114435626750128936}
+  - {fileID: 114252662670837508}
+  - {fileID: 114413227869150380}
+  - {fileID: 114689219347960652}
+  - {fileID: 114810711327901572}
+  - {fileID: 114936603556850398}
+  - {fileID: 114045624133896440}
+  - {fileID: 114800198489929796}
+  - {fileID: 114381920169758124}
+  - {fileID: 114772290863485126}
+  - {fileID: 114662145079554584}
+  - {fileID: 114831443298613992}
+  - {fileID: 114504645563456602}
+  - {fileID: 114778928461011808}
+  - {fileID: 114129351063020464}
+  - {fileID: 114237460804409152}
+  - {fileID: 114190912617698894}
+  - {fileID: 114896366847525318}
+  - {fileID: 114540134321359450}
+  - {fileID: 114013833162352900}
+  - {fileID: 114136306482540990}
+  - {fileID: 114160985381103440}
+  - {fileID: 114330880170684696}
+  - {fileID: 114692864786485310}
+  - {fileID: 114263149769888956}
+  - {fileID: 114044789814221892}
+  - {fileID: 114322077416957722}
+  - {fileID: 114267505971916778}
+  - {fileID: 114795824097866262}
+  - {fileID: 114388748001864454}
+  - {fileID: 114670677849825956}
+  - {fileID: 114545996484207722}
+  - {fileID: 114612171085248996}
+  - {fileID: 114274688916394926}
+  - {fileID: 114948166212129128}
+  - {fileID: 114722809072416958}
+  - {fileID: 114628176868316684}
+  - {fileID: 114869214888146946}
+  - {fileID: 114543566695153010}
+  - {fileID: 114837450076566466}
+  - {fileID: 114234323247352102}
+  MasterBankRef: {fileID: 114906141375151176}
+  StringsBankRef: {fileID: 114460659064120168}
+  stringsBankWriteTime: 636640164196872723
+  cacheVersion: 2
+--- !u!114 &114012282167264098
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/SOUND_SHANK_MELEE_CHARACTER_LIGHT
+  guid: 77b2224a9cb15d4e8e7e7ada8bd7670e
+  Banks:
+  - {fileID: 114906141375151176}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2000
+--- !u!114 &114013833162352900
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Man_hole3D
+  guid: 9e88ab727b4206409c22aa1efeb4a9bf
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2625
+--- !u!114 &114014059420269022
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/SOUND_SHANK_MELEE_CHARACTER_HEAVY
+  guid: 7c2946492f4ee7458b522aa877c310e0
+  Banks:
+  - {fileID: 114906141375151176}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2048
+--- !u!114 &114020963946840438
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/MainLoop_Level1
+  guid: f436871753f75e4eabb46ba345004e05
+  Banks:
+  - {fileID: 114906141375151176}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 107142
+--- !u!114 &114022210448850664
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Isart\PFA\PFA_Unity_Perforce\ProjFMOD\BTA_FMOD_Project\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636625412609019255
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 5013888
+  Exists: 1
+--- !u!114 &114044789814221892
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/VOIX/AMARA/JUMP
+  guid: 0dd832830fa10f4f9870da029681342f
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1750
+--- !u!114 &114045624133896440
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/ENEMY2_BALL_IMPACT
+  guid: 7073e5671b3fe242ad443973bca88869
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 13990
+--- !u!114 &114047493301489526
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Isart\PFA\PFA_Unity_Perforce\ProjFMOD\BTA_FMOD_Project\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636603570718061275
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1957824
+  Exists: 1
+--- !u!114 &114050516810095636
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Isart\PFA\PFA_Unity_Perforce\ProjFMOD\BTA_FMOD_Project\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636625412609019255
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 5013888
+  Exists: 1
+--- !u!114 &114084513899925618
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Projects\Unity\bta_2018_shank\ProjFMOD\BTA_FMOD_Project\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636625791371661119
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 5013888
+  Exists: 1
+--- !u!114 &114091276552882554
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/SOUND_SHANK_RANGED_CHARACTER_HEAVY_ATTACK
+  guid: 2993fe6bc545d544a47deab6ca381e7a
+  Banks:
+  - {fileID: 114906141375151176}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2346
+--- !u!114 &114092991645593238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/SOUND_SHANK_MELEE_CHARACTER_SPECIAL
+  guid: ac901630dceb4441ad4d7d202e5f457b
+  Banks:
+  - {fileID: 114906141375151176}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2000
+--- !u!114 &114129351063020464
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/DASH
+  guid: ed3049407587334d8e0355338c56c953
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 13880
+--- !u!114 &114136306482540990
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/SMALL_ENEMY_SCREAM
+  guid: 149cc4025152e342b273a2686009b470
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 20769
+--- !u!114 &114145127710346502
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Isart\PFA\PFA_Unity_Perforce\ProjFMOD\BTA_FMOD_Project\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636638474162039156
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 5888416
+  Exists: 1
+--- !u!114 &114160985381103440
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/bIG_ENEMY_SCREAM
+  guid: e3de510609d31043b6a41dff659acb54
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 20769
+--- !u!114 &114190912617698894
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/IMPACT_ELECTRIC_DISTANCEHORIZONTAL
+  guid: 55540a9182cf5b47b4ce06c51ad4b1a4
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 4615
+--- !u!114 &114201074876362188
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Projects\Unity\bta_2018_shank\ProjFMOD\BTA_FMOD_Project\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636625791371661119
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 5013888
+  Exists: 1
+--- !u!114 &114216831190567122
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Test
+  guid: 32fe9e819a02e14f9a824bb567aaef53
+  Banks:
+  - {fileID: 114714558258279886}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 11983
+--- !u!114 &114218579315574176
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Isart\PFA\PFA_Unity_Perforce\ProjFMOD\BTA_FMOD_Project\Build\Desktop\MAJ.bank
+  lastModified: 636640173823704428
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 5566592
+  Exists: 1
+--- !u!114 &114223492761056474
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Projects\Unity\bta_2018_shank\ProjFMOD\BTA_FMOD_Project\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636603328450085058
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1957824
+  Exists: 1
+--- !u!114 &114234323247352102
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/VOIX/JUDE/FAINT
+  guid: e7de6c80af52af448db32f9a67c98ba8
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 3074
+--- !u!114 &114237460804409152
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/MUSIC_LVL1
+  guid: f657d1da86f4e54e9a4d6f77069d1328
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 102857
+--- !u!114 &114252662670837508
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/REVIVE
+  guid: 01f80f711bf34342ba932befdd8aa71b
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 13990
+--- !u!114 &114261624371467100
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/SOUND_SHANK_RANGED_CHARACTER_LIGHT_ATTACK
+  guid: 11fbdaa6073d314aaccca17bc1224774
+  Banks:
+  - {fileID: 114906141375151176}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1884
+--- !u!114 &114263149769888956
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/VOIX/JUDE/CALL
+  guid: 0a803b3345024f4a86afae1975b08a2f
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1250
+--- !u!114 &114267505971916778
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/VOIX/JUDE/HEY
+  guid: 328283b69eee0d4b80cb199558cebad0
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1011
+--- !u!114 &114274688916394926
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/VOIX/JUDE/VICTORY3
+  guid: 883d8a575d43a54ba514b8a52585f966
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 4651
+--- !u!114 &114322077416957722
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/VOIX/JUDE/HMM
+  guid: 22f94f630345f6429c2eacb9c8eaa7bd
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2062
+--- !u!114 &114330880170684696
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/ATTERISAGE
+  guid: 958e6c70bce8a34fa7ce6edd45155d82
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 296
+--- !u!114 &114340886520722896
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/SOUND_SHANK_ROOM_TONE
+  guid: 87707484d8c85649912b3b81343d08fb
+  Banks:
+  - {fileID: 114906141375151176}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 68722
+--- !u!114 &114376495384288446
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/SOUND_SHANK_RANGED_CHARACTER_SPECIAL_ATTACK
+  guid: e0a37c6185aeb9408f782260ef5bf312
+  Banks:
+  - {fileID: 114906141375151176}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 13896
+--- !u!114 &114381055087002256
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/MainLoop_UI
+  guid: a51f8e017a76ab4b9573d4b60333ef49
+  Banks:
+  - {fileID: 114906141375151176}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 41739
+--- !u!114 &114381920169758124
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/ENEMY2_BALL_SEND
+  guid: 934ef2948567e941b55c71ba53f8027e
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 13490
+--- !u!114 &114388748001864454
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/VOIX/JUDE/SNEER
+  guid: 4891236cd71f8c48892d808d7be213e1
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 930
+--- !u!114 &114410995898663384
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Isart\PFA\PFA_Unity_Perforce\ProjFMOD\BTA_FMOD_Project\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636603438391505193
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1957824
+  Exists: 0
+--- !u!114 &114413227869150380
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/MUSIC_LVL_FINAL
+  guid: 291dea417ba5e349bb6dfa957d719461
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 95135
+--- !u!114 &114432144423518122
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Isart\PFA\PFA_Unity_Perforce\ProjFMOD\BTA_FMOD_Project\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636625412609019255
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 5013888
+  Exists: 1
+--- !u!114 &114435626750128936
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/ENEMYHit
+  guid: a563626292179c40a69e2482e8087bf4
+  Banks:
+  - {fileID: 114906141375151176}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 292
+--- !u!114 &114439022950318486
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Projects\Unity\bta_2018_shank\ProjFMOD\BTA_FMOD_Project\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636621942733166270
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1957824
+  Exists: 0
+--- !u!114 &114449443541876074
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Projects\Unity\bta_2018_shank\ProjFMOD\BTA_FMOD_Project\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636603328450085058
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1957824
+  Exists: 0
+--- !u!114 &114460659064120168
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: ProjFMOD\BTA_FMOD_Project\Build\Desktop\Master Bank.strings.bank
+  lastModified: 636640164196872723
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3322
+  Exists: 1
+--- !u!114 &114461230950550460
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Projects\Unity\bta_2018_shank\ProjFMOD\BTA_FMOD_Project\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636638177967672009
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 5888416
+  Exists: 1
+--- !u!114 &114461892779088640
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Projects\Unity\bta_2018_shank\ProjFMOD\BTA_FMOD_Project\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636625791371661119
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 5013888
+  Exists: 1
+--- !u!114 &114504645563456602
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/LOOSELIFE
+  guid: e76d70cfbba65a4aa231e03252d91460
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2000
+--- !u!114 &114517253109052744
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/FOOTSTEP
+  guid: 415bbd53b26f9a44b7d36942b70b59bb
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2500
+--- !u!114 &114517544504121532
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Man_hole3D
+  guid: 9e88ab727b4206409c22aa1efeb4a9bf
+  Banks:
+  - {fileID: 114727348700250400}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 13990
+--- !u!114 &114540134321359450
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/SLIME_ENEMIES
+  guid: 81d20fc763fa954fa1722140e69c29fa
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2000
+--- !u!114 &114543566695153010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/VOIX/JUDE/SIGH
+  guid: d300dd0084855342b84f7061f42fc0c6
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1173
+--- !u!114 &114545996484207722
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/VOIX/JUDE/VICTORY1
+  guid: 847fc054ca62f94ba63312bfde000e7b
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 5420
+--- !u!114 &114570148579408492
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Projects\Unity\bta_2018_shank\ProjFMOD\BTA_FMOD_Project\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636603328450085058
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1957824
+  Exists: 1
+--- !u!114 &114583581798088322
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Isart\PFA\PFA_Unity_Perforce\ProjFMOD\BTA_FMOD_Project\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636615788530455464
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1957824
+  Exists: 1
+--- !u!114 &114606871279340838
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Projects\Unity\bta_2018_shank\ProjFMOD\BTA_FMOD_Project\Build\Desktop\MAJ.bank
+  lastModified: 636639696699300284
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 5566592
+  Exists: 1
+--- !u!114 &114612171085248996
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/VOIX/JUDE/YES
+  guid: 878b8de77fbda446bc82bebee9f9d91f
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 809
+--- !u!114 &114613548381515420
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/SOUND_SHANK_PLAYER_JUMP
+  guid: 1d895233e004f14f9dd17bdd2f9319fd
+  Banks:
+  - {fileID: 114906141375151176}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 13812
+--- !u!114 &114616589097787496
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/EnemyHit
+  guid: a563626292179c40a69e2482e8087bf4
+  Banks:
+  - {fileID: 114637995751203568}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 300
+--- !u!114 &114628176868316684
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/VOIX/JUDE/INTERROGATIVE
+  guid: bd8d7fc6f27f3246aadc8cf353f17001
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1456
+--- !u!114 &114637995751203568
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Isart\PFA\PFA_Unity_Perforce\ProjFMOD\BTA_FMOD_Project\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636632002322719594
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 5908128
+  Exists: 1
+--- !u!114 &114662145079554584
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/GAMEOVER
+  guid: b685ca185c37c34e954f1c828e59af34
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 13990
+--- !u!114 &114670677849825956
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/VOIX/JUDE/VICTORY4
+  guid: 77c20ec0f508dc4b997e1e2c0b038969
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 4651
+--- !u!114 &114689219347960652
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/JUMP_NEW
+  guid: 33044fee5b8d9c478a7bca484f742ffb
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1031
+--- !u!114 &114692864786485310
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/VOIX/JUDE/ANNOYED
+  guid: e041707e3905da488be47e65a0fd2aa4
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2305
+--- !u!114 &114701681747395704
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Projects\Unity\bta_2018_shank\ProjFMOD\BTA_FMOD_Project\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636603328450085058
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1957824
+  Exists: 1
+--- !u!114 &114714558258279886
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Isart\PFA\PFA_Unity_Perforce\ProjFMOD\TestFMOD\Build\Desktop\Master Bank.bank
+  lastModified: 636601773408325512
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 194112
+  Exists: 1
+--- !u!114 &114722809072416958
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/VOIX/AMARA/FAINT
+  guid: bd6a0848ddcbc446a971fa76e59487a7
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1750
+--- !u!114 &114727348700250400
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Projects\Unity\bta_2018_shank\ProjFMOD\BTA_FMOD_Project\Build\Desktop\MAJ.bank
+  lastModified: 636638203220948616
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3283488
+  Exists: 1
+--- !u!114 &114733638944303582
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Isart\PFA\PFA_Unity_Perforce\ProjFMOD\BTA_FMOD_Project\Build\Desktop\MAJ.bank
+  lastModified: 636638474156788101
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 3593760
+  Exists: 1
+--- !u!114 &114737228409276650
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Projects\Unity\bta_2018_shank\ProjFMOD\BTA_FMOD_Project\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636603328450085058
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1957824
+  Exists: 1
+--- !u!114 &114751051975558872
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/MainLoop_Level3
+  guid: 4fde0c70e2ee6b4295c6b0b71a846a60
+  Banks:
+  - {fileID: 114906141375151176}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 99459
+--- !u!114 &114752952621633396
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Isart\PFA\PFA_Unity_Perforce\ProjFMOD\BTA_FMOD_Project\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636615788530455464
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1957824
+  Exists: 1
+--- !u!114 &114772290863485126
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/MELEE_SWORD_HEAVY
+  guid: b025e0353acbc34aa72ef74c8b026967
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 13990
+--- !u!114 &114778928461011808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Man_hole
+  guid: ebdcefd928bfb84895a9ede3fe4b825b
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 2625
+--- !u!114 &114795824097866262
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/VOIX/AMARA/CALL
+  guid: 436b946e5fc5f94e9802b24432ab7d9a
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1750
+--- !u!114 &114800198489929796
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/MUSIC_UI
+  guid: 767bb40914f40f48a3cf6360a4812d1a
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 41739
+--- !u!114 &114802678377184216
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/MainLoop_Level2
+  guid: 9d426eb8bb41c44f8b56de6debf0e991
+  Banks:
+  - {fileID: 114906141375151176}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 167339
+--- !u!114 &114810711327901572
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/baril_explosion
+  guid: 6a028c8968386a4fb831faa1c393a43e
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 6000
+--- !u!114 &114815565672859406
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Isart\PFA\PFA_Unity_Perforce\ProjFMOD\BTA_FMOD_Project\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636625412609019255
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 5013888
+  Exists: 1
+--- !u!114 &114819366883184858
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Projects\Unity\bta_2018_shank\ProjFMOD\BTA_FMOD_Project\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636639696650683951
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 5989888
+  Exists: 1
+--- !u!114 &114831443298613992
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/WIN
+  guid: ded15f00dec54b4ba7c8edd55d37ddf7
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 4000
+--- !u!114 &114837450076566466
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/VOIX/JUDE/VICTORY2
+  guid: dec048ac729a534db9d458950495f84d
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 3195
+--- !u!114 &114863599681862452
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Isart\PFA\PFA_Unity_Perforce\ProjFMOD\BTA_FMOD_Project\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636625412609019255
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 5013888
+  Exists: 0
+--- !u!114 &114867430994594034
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Projects\Unity\bta_2018_shank\ProjFMOD\BTA_FMOD_Project\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636625791371661119
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 5013888
+  Exists: 1
+--- !u!114 &114869214888146946
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/VOIX/JUDE/NICE
+  guid: c60b5ac19c02d64b95d002718fc575c6
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1213
+--- !u!114 &114874839365939752
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Isart\PFA\PFA_Unity_Perforce\ProjFMOD\BTA_FMOD_Project\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636611625937569056
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1957824
+  Exists: 1
+--- !u!114 &114885543789412210
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Isart\PFA\PFA_Unity_Perforce\ProjFMOD\BTA_FMOD_Project\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636639065709524905
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 5896640
+  Exists: 1
+--- !u!114 &114896366847525318
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/IMPACT_ELECTRIC_DISTANCEVERTICAL
+  guid: c591c12ff491ec4ea91dabff635a439b
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 4615
+--- !u!114 &114906141375151176
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: E:\Program Files (x86)\Marche_stp\ProjFMOD\BTA_FMOD_Project\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636640164196842719
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 5989888
+  Exists: 1
+--- !u!114 &114910447327198126
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/SOUND_SHANK_MENU_BUTTON_CHANGE
+  guid: 424af408d1e20a4bac727819f1d8a47f
+  Banks:
+  - {fileID: 114906141375151176}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 83
+--- !u!114 &114928873107157888
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Isart\PFA\PFA_Unity_Perforce\ProjFMOD\BTA_FMOD_Project\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636624362092689720
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1957824
+  Exists: 1
+--- !u!114 &114936603556850398
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/Special_RANGED
+  guid: 6e20ad8fe7cbad4d945c89c44194d61c
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 13990
+--- !u!114 &114948166212129128
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: event:/VOIX/JUDE/COMEON
+  guid: 9e654a7c59489548b875a1ab091106c4
+  Banks:
+  - {fileID: 114987401064337160}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1982
+--- !u!114 &114949644202556732
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Projects\Unity\bta_2018_shank\ProjFMOD\BTA_FMOD_Project\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636631434621512185
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 5908128
+  Exists: 1
+--- !u!114 &114957574796977380
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Isart\PFA\PFA_Unity_Perforce\ProjFMOD\BTA_FMOD_Project\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636640173831932358
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 5989888
+  Exists: 1
+--- !u!114 &114982256059273358
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Isart\PFA\PFA_Unity_Perforce\ProjFMOD\BTA_FMOD_Project\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636615788530455464
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1957824
+  Exists: 1
+--- !u!114 &114982638914774990
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Projects\Unity\bta_2018_shank\ProjFMOD\BTA_FMOD_Project\Build\Desktop\Master
+    Bank.bank
+  lastModified: 636624281700531401
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 1957824
+  Exists: 1
+--- !u!114 &114987401064337160
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: E:\Program Files (x86)\Marche_stp\ProjFMOD\BTA_FMOD_Project\Build\Desktop\MAJ.bank
+  lastModified: 636640164122833321
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 5566592
+  Exists: 1
+--- !u!114 &114990884419756196
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Path: D:\Isart\PFA\PFA_Unity_Perforce\ProjFMOD\BTA_FMOD_Project\Build\Desktop\MAJ.bank
+  lastModified: 636639065670585109
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 4544960
+  Exists: 1

@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e22d1b701f78b6e4e9daa3e8d69feb72, type: 3}
+  m_Name: LEVEL01START
+  m_EditorClassIdentifier: 
+  TextBlockArray:
+  - talkingCharacter: 1
+    text: So. Are you starting to get used to it?
+    hasSound: 1
+    sound: event:/VOIX/AMARA/INTERROGATIVE
+  - talkingCharacter: 2
+    text: You mean the whole "run around and shoot stuff" thing?
+    hasSound: 0
+    sound: 
+  - talkingCharacter: 1
+    text: That's... one way of putting it...
+    hasSound: 1
+    sound: event:/VOIX/AMARA/SIGH
+  - talkingCharacter: 1
+    text: There's much more to our job than that, but yes, I mean exactly that.
+    hasSound: 0
+    sound: 
+  - talkingCharacter: 1
+    text: Have you properly checked that your equipment is functional? Have you correctly
+      put on your uniform?
+    hasSound: 0
+    sound: 
+  - talkingCharacter: 2
+    text: Amara, don't treat me like a kid. I can handle myself just fine.
+    hasSound: 1
+    sound: event:/VOIX/JUDE/HEY
+  - talkingCharacter: 1
+    text: Well, Mr. Big Boy Jude, I'll remind you that no later than last week, you
+      forgot to wear your gloves and almost got your hands hit by slime splashes.
+    hasSound: 1
+    sound: event:/VOIX/AMARA/SNEER
+  - talkingCharacter: 2
+    text: Come on, is that such a big deal if I forget something once in my entire
+      life?
+    hasSound: 1
+    sound: event:/VOIX/JUDE/COMEON
+  - talkingCharacter: 1
+    text: Twice.
+    hasSound: 0
+    sound: 
+  - talkingCharacter: 2
+    text: '... There are no winning arguments against you, right? I guess it''s kind
+      of a mom thing...'
+    hasSound: 1
+    sound: event:/VOIX/JUDE/SIGH

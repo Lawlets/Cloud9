@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf28ebce1fe59854089bb233a2599f91, type: 3}
+  m_Name: AdrenalineFlask
+  m_EditorClassIdentifier: 
+  m_currentFlaskType: 7
+  price: 400
+  nocivity: 10
+  flaskName: Citrus Amrita
+  flaskGeneralDescription: 'Special gauge slowly refills instead of decaying while
+    your health is low. '
+  flaskEffectDescription: Special Gauge refill when under 20% life
+  narrativeDescription: The secret for a long, healthy life - finally discovered?
+    Citrus Amrita is a powerful stimulant that lets you gain a second breath during
+    times of sickness! Perfect for continuing your daily life without trouble when
+    a fever should keep you in bed all day.
+  m_flaskSprite: {fileID: 21300000, guid: 53d3b2d0c8bc5fa449dcf7823e6778bb, type: 3}
+  m_fogColor: {r: 0, g: 0, b: 0, a: 0}
+  m_isLock: 0
+  m_dashCooldown: 0
+  m_dashLength: 0
+  m_dashDuration: 0
+  m_jumpHeight: 0
+  m_jumpDuration: 0
+  m_FallingSpeed: 0
+  m_speed: 0
+  m_reviveDuration: 0
+  m_hpBonus: 0
+  m_chainGaugeLossOutOfFight: 0
+  m_chainTimer: 0
+  m_attackGainingSuperArmor: 1
+  m_lifePercentBeforeChainGaugeIncrease: 20
+  m_cannotRegenerateByHittingSlime: 0
+  m_goldMultiplier: 0
