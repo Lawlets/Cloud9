@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{304bea0e-14d9-4c3a-b53c-9f9c8c13ccc6}">
+        <property name="assetPath">
+            <value>sfx electricity.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>4.0173469387755105</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{32981035-a5a5-4cf1-8029-86c8c8b8daf4}</destination>
+        </relationship>
+    </object>
+</objects>

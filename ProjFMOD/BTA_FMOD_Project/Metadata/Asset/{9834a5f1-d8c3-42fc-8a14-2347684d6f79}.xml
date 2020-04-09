@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="EncodableAsset" id="{9834a5f1-d8c3-42fc-8a14-2347684d6f79}">
+        <property name="assetPath">
+            <value>VOIXJUDE/</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{32981035-a5a5-4cf1-8029-86c8c8b8daf4}</destination>
+        </relationship>
+    </object>
+</objects>

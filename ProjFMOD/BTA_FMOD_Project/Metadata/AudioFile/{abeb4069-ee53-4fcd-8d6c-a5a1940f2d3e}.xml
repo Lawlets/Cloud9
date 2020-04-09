@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{abeb4069-ee53-4fcd-8d6c-a5a1940f2d3e}">
+        <property name="assetPath">
+            <value>VOIXJUDE/JUDE_VICTORY4 23-Audio.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>4.6516666666666664</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{32981035-a5a5-4cf1-8029-86c8c8b8daf4}</destination>
+        </relationship>
+    </object>
+</objects>

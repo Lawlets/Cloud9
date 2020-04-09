@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{054a9491-4ce2-4adf-a5f3-52a7deb665e2}">
+        <property name="assetPath">
+            <value>VOIXJUDE/JUDE_FAINT 115-Audio.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>3.0741458333333331</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{32981035-a5a5-4cf1-8029-86c8c8b8daf4}</destination>
+        </relationship>
+    </object>
+</objects>

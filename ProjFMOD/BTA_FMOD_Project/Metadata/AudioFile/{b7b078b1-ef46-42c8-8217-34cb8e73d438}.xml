@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{b7b078b1-ef46-42c8-8217-34cb8e73d438}">
+        <property name="assetPath">
+            <value>VOIXAMARA/AMARA_VOIX ANNOYED.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>1.1538541666666666</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{32981035-a5a5-4cf1-8029-86c8c8b8daf4}</destination>
+        </relationship>
+    </object>
+</objects>
